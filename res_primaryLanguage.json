@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "Hi, I'am Riyanshu Jain",
-    "description": "A Pre-final year student at IIT Jodhpur, pursuing B.Tech in AI & Data Science. I define myself as a fast & adaptive learner who likes to take challenges which I am not proficient in and solve them. Over the past two years, I have worked with technologies like C++, Python, MySQL, PyTorch, HTML, CSS, ReactJS and made several projects with their use. I am deeply passionate about programming stuff and my keen interest in software domain has always pushed me to think upon how I can contribute to software enhancements.",
+    "description": "A Pre-final year student at IIT Jodhpur, pursuing B.Tech in AI & Data Science. I define myself as a fast & adaptive learner who likes to take challenges which I am not proficient in and solve them. Over the past two years, I have worked with technologies like C++, Python, MySQL, PyTorch, HTML, CSS, ReactJS and made several projects with their use. I am deeply passionate about programming and my keen interest in software domain has always pushed me to think upon how I can contribute to software enhancements.",
     "section_name": {
       "about": "About me",
       "education": "Education",
@@ -12,7 +12,51 @@
   },
   "education": [
     {
-      
+      "company": "IIT JODHPUR",
+      "title": "B.Tech in Artificial Intelligence & Data Science",
+      "years": "Nov 2020 - May 2024",
+      "mainTech": [
+        "CGPA: 8.02 (upto 5th Sem)"
+      ],
+      "technologies": [
+        "Data Structures & Algorithms",
+        "Pattern Recognition & Machine Learning",
+        "Optimization for Machine Learning",
+        "Artificial Intelligence",
+        "Data Engineering",
+        "Principles of Computer Systems",
+        "Probability, Statistics & Stochastic Processes"
+      ]
+    },
+    {
+      "company": "CENTRAL ACADEMY SR. SEC. SCHOOL, UDAIPUR",
+      "title": "12th Standard, CBSE",
+      "years": "April 2019 - July 2020",
+      "mainTech": [
+        "Percentage: 95.8 %"
+      ],
+      "technologies": [
+        "Maths",
+        "Physics",
+        "Chemistry",
+        "Computer Science",
+        "English"
+      ]
+    },
+    {
+      "company": "CENTRAL ACADEMY SR. SEC. SCHOOL, UDAIPUR",
+      "title": "10th Standard, CBSE",
+      "years": "April 2017 - March 2018",
+      "mainTech": [
+        "Percentage: 91.4 %"
+      ],
+      "technologies": [
+        "Maths",
+        "Science",
+        "Hindi",
+        "English",
+        "Social Science"
+      ]
     }
   ],
   "projects": [
@@ -23,7 +67,7 @@
       "images": [
         "images/portfolio/projects/research_2.png"
       ],
-      "url": "https://github.com/RiyanshuJain/Quick-Chat---A-Chat-Application",
+      "url": "https://github.com/RiyanshuJain/Improved-Distillation-with-Ensemble-of-Calibrated-models",
       "technologies": [
         {
           "class": "devicon-python-plain",
@@ -126,7 +170,7 @@
         "images/portfolio/projects/bitcoin_1.png",
         "images/portfolio/projects/bitcoin_2.png"
       ],
-      "url": "https://github.com/RiyanshuJain/Heart-Failure-Prediction",
+      "url": "https://github.com/RiyanshuJain/Bitcoin_Price_Prediction",
       "technologies": [
         {
           "class": "devicon-jupyter-plain",
