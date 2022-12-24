@@ -1,0 +1,267 @@
+{
+  "basic_info": {
+    "description_header": "Hi, I'am Riyanshu Jain",
+    "description": "A Pre-final year student at IIT Jodhpur, pursuing B.Tech in AI & Data Science. I define myself as a fast & adaptive learner who likes to take challenges which I am not proficient in and solve them. Over the past two years, I have worked with technologies like C++, Python, MySQL, PyTorch, HTML, CSS, ReactJS and made several projects with their use. I am deeply passionate about programming and my keen interest in software domain has always pushed me to think upon how I can contribute to software enhancements.",
+    "section_name": {
+      "about": "About me",
+      "education": "Education",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "education": [
+    {
+      "company": "IIT JODHPUR",
+      "title": "B.Tech in Artificial Intelligence & Data Science",
+      "years": "Nov 2020 - May 2024",
+      "mainTech": [
+        "CGPA: 8.02 (upto 5th Sem)"
+      ],
+      "technologies": [
+        "Data Structures & Algorithms",
+        "Pattern Recognition & Machine Learning",
+        "Optimization for Machine Learning",
+        "Artificial Intelligence",
+        "Data Engineering",
+        "Principles of Computer Systems",
+        "Probability, Statistics & Stochastic Processes"
+      ]
+    },
+    {
+      "company": "CENTRAL ACADEMY SR. SEC. SCHOOL, UDAIPUR",
+      "title": "12th Standard, CBSE",
+      "years": "April 2019 - July 2020",
+      "mainTech": [
+        "Percentage: 95.8 %"
+      ],
+      "technologies": [
+        "Maths",
+        "Physics",
+        "Chemistry",
+        "Computer Science",
+        "English"
+      ]
+    },
+    {
+      "company": "CENTRAL ACADEMY SR. SEC. SCHOOL, UDAIPUR",
+      "title": "10th Standard, CBSE",
+      "years": "April 2017 - March 2018",
+      "mainTech": [
+        "Percentage: 91.4 %"
+      ],
+      "technologies": [
+        "Maths",
+        "Science",
+        "Hindi",
+        "English",
+        "Social Science"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Improved Distillation with Ensemble of Calibrated models",
+      "startDate": "2022",
+      "description": "A research work which aims at improving the knowledge distillation with the use of ensemble of data augmented models.",
+      "images": [
+        "images/portfolio/projects/research_2.png"
+      ],
+      "url": "https://github.com/RiyanshuJain/Improved-Distillation-with-Ensemble-of-Calibrated-models",
+      "technologies": [
+        {
+          "class": "devicon-python-plain",
+          "name": "Python"
+        },
+        {
+          "class": "devicon-pytorch-plain",
+          "name": "PyTorch"
+        }
+      ]
+    },
+    {
+      "title": "QuickChat - A relatime chat webapp",
+      "startDate": "2022",
+      "description": "A realtime Chat WebApp coded with the aid of React.js on frontend and Node.js on backend. Used Socket.IO web socket library for building the server. You can also see online users in the room at the realtime.",
+      "images": [
+        "images/portfolio/projects/quick_chat.png"
+      ],
+      "url": "https://github.com/RiyanshuJain/Quick-Chat---A-Chat-Application",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React.js"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Node.js"
+        },
+        {
+          "class": "devicon-socketio-original",
+          "name": "Socket.IO"
+        }
+      ]
+    },
+    {
+      "title": "Heart Failure Prediction",
+      "startDate": "2022",
+      "description": "Used multiple classifiers for predicting heart disease events and combined their predictions to obtain new classfication results based on some mathematical equations. Achieved an accuracy of about 91.3 %, recall score of 0.9213 and mean AUC score of 0.9288 on a train-test split of 80-20 %",
+      "images": [
+        "images/portfolio/projects/hear_failure_pred_1.png",
+        "images/portfolio/projects/hear_failure_pred_2.png"
+      ],
+      "url": "https://github.com/RiyanshuJain/Heart-Failure-Prediction",
+      "technologies": [
+        {
+          "class": "devicon-jupyter-plain",
+          "name": "Jupyter"
+        },
+        {
+          "class": "devicon-numpy-original",
+          "name": "Numpy"
+        },
+        {
+          "class": "devicon-pandas-original",
+          "name": "Pandas"
+        },
+        {
+          "class": "devicon-python-plain",
+          "name": "Sklearn"
+        },
+        {
+          "class": "devicon-python-plain",
+          "name": "Matplotlib"
+        },
+        {
+          "class": "devicon-flask-original",
+          "name": "Flask"
+        }
+      ]
+    },
+    {
+      "title": "Web Portal to Visualize Process Scheduling",
+      "startDate": "2022",
+      "description": "Developed a web portal to visualize CPU scheduling algorithms and their comparison on the basis of average waiting time, turnaround time and response time.",
+      "images": [
+        "images/portfolio/projects/process_sch_2.png",
+        "images/portfolio/projects/process_sch_1.png"
+      ],
+      "url": "https://github.com/RiyanshuJain/Web-Portal-to-visualise-scheduling-processes-in-OS",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "Bitcoin Price Prediction",
+      "startDate": "2022",
+      "description": "",
+      "images": [
+        "images/portfolio/projects/bitcoin_1.png",
+        "images/portfolio/projects/bitcoin_2.png"
+      ],
+      "url": "https://github.com/RiyanshuJain/Bitcoin_Price_Prediction",
+      "technologies": [
+        {
+          "class": "devicon-jupyter-plain",
+          "name": "Jupyter"
+        },
+        {
+          "class": "devicon-numpy-original",
+          "name": "Numpy"
+        },
+        {
+          "class": "devicon-pandas-original",
+          "name": "Pandas"
+        },
+        {
+          "class": "devicon-python-plain",
+          "name": "Sklearn"
+        },
+        {
+          "class": "devicon-python-plain",
+          "name": "Matplotlib"
+        }
+      ]
+    },
+    {
+      "title": "Student Database Management System",
+      "startDate": "2022",
+      "description": "Database Management System for schools and colleges, where an admin can add/delete/update courses and student details.",
+      "images": [
+        "images/portfolio/projects/dbms_1.png",
+        "images/portfolio/projects/dbms_2.png"
+      ],
+      "url": "https://github.com/RiyanshuJain/Student-Database-Management-System",
+      "technologies": [
+        {
+          "class": "devicon-mysql-plain",
+          "name": "MySQL"
+        },
+        {
+          "class": "devicon-php-plain",
+          "name": "PHP"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "IIT Jodhpur",
+      "title": "UG-Student Researcher",
+      "years": "May 2022 - Nov 2022",
+      "mainTech": [
+        "PyTorch"
+      ],
+      "technologies": [
+        "Python",
+        "PyTorch",
+        "Matplotlib",
+        "Latex"
+      ]
+    },
+    {
+      "company": "ABU Robocon-2022 Team, IIT Jodhpur",
+      "title": "CAD & Manufacturing",
+      "years": "Dec 2021 - May 2022",
+      "mainTech": [
+        "SolidWorks"
+      ],
+      "technologies": [
+        "SolidWorks"
+      ]
+    },
+    {
+      "company": "Frame-X, IIT Jodhpur",
+      "title": "Core Team Lead",
+      "years": "Nov 2021 - May 2022",
+      "mainTech": [
+        "Adobe Premiere Pro"
+      ],
+      "technologies": [
+        "Film Making & Video Editing Club"
+      ]
+    },
+    {
+      "company": "E-Cell, IIT Jodhpur",
+      "title": "Junior Executive",
+      "years": "March 2021 - Nov 2021",
+      "mainTech": [
+        ""
+      ],
+      "technologies": [
+        ""
+      ]
+    }
+  ]
+}

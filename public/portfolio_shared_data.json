@@ -1,0 +1,144 @@
+{
+    "basic_info": {
+      "name": "Riyanshu Jain",
+      "titles": [ "IIT Jodhpur", "Artificial Intelligence", "Data Science" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/RiyanshuJain",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://in.linkedin.com/in/riyanshu-jain-iitj",
+          "class": "fab fa-linkedin"
+        },
+        {
+          "name": "email", 
+          "url": "mailto: jain.59@iitj.ac.in",
+          "class": "fab fa fa-envelope"
+        },
+        {
+          "name": "resume", 
+          "url": "https://drive.google.com/drive/folders/1fbP0t9H61Y1Gwu5PLbvUj_mZmDFHZYmu?usp=share_link",
+          "class": "fab fa fa-file-pdf"
+        }
+      ],
+      "image": "profile pic.jpg"
+    },
+    "skills": {
+      "icons_lang": [
+        {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": ""
+        },
+        {
+          "name": "C++",
+          "class": "devicon-cplusplus-plain",
+          "level": ""
+        },
+        {
+          "name": "C",
+          "class": "devicon-c-plain",
+          "level": ""
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain",
+          "level": ""
+        }
+      ],
+      "icons_webd": [
+        {
+          "name": "HTML",
+          "class": "devicon-html5-plain",
+          "level": ""
+        },
+        {
+          "name": "CSS",
+          "class": "devicon-css3-plain",
+          "level": ""
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": ""
+        },
+        {
+          "name": "ReactJs",
+          "class": "devicon-react-plain",
+          "level": "familiar"
+        },
+        {
+          "name": "NodeJs",
+          "class": "devicon-nodejs-plain-wordmark",
+          "level": ""
+        }
+      ],
+      "icons_ml": [
+        {
+          "name": "NumPy",
+          "class": "devicon-numpy-original",
+          "level": ""
+        },
+        {
+          "name": "Pandas",
+          "class": "devicon-pandas-original",
+          "level": ""
+        },
+        {
+          "name": "PyTorch",
+          "class": "devicon-pytorch-plain",
+          "level": ""
+        },
+        {
+          "name": "matplotlib",
+          "class": "devicon-python-plain",
+          "level": ""
+        },
+        {
+          "name": "scikit-learn",
+          "class": "devicon-python-plain",
+          "level": ""
+        },
+        {
+          "name": "Jupyter",
+          "class": "devicon-jupyter-plain",
+          "level": ""
+        }
+      ],
+      "icons_other": [
+        {
+          "name": "Shell-scripting",
+          "class": "devicon-bash-plain",
+          "level": ""
+        },
+        {
+          "name": "Android Studio",
+          "class": "devicon-androidstudio-plain",
+          "level": ""
+        },
+        {
+          "name": "Premiere Pro",
+          "class": "devicon-premierepro-plain",
+          "level": ""
+        },
+        {
+          "name": "Illustrator",
+          "class": "devicon-illustrator-plain",
+          "level": ""
+        },
+        {
+          "name": "Figma",
+          "class": "devicon-figma-plain",
+          "level": ""
+        },
+        {
+          "name": "Solidworks",
+          "class": "fab fa fa-cube",
+          "level": ""
+        }
+      ]
+    }
+  }
