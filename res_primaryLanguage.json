@@ -217,6 +217,35 @@
   ],
   "experience": [
     {
+      "company": "MAQ Software",
+      "title": "Associate Software Engineering Intern",
+      "years": "May 2023 - July 2023",
+      "mainTech": [
+        "Power Automate"
+      ],
+      "technologies": [
+        "Power Virtual Agent",
+        "Power Automate",
+        "Azure OpenAI",
+        "Azure Cognitive Search",
+        "Python",
+        "Power Apps"
+      ]
+    },
+    {
+      "company": "IGNUS - Annual socio-cult fest, IIT Jodhpur",
+      "title": "Overall Marketing Head",
+      "years": "Jan 2023 - Feb 2023",
+      "mainTech": [
+        "Marketing"
+      ],
+      "technologies": [
+        "Communication",
+        "Advertising",
+        "Team Management"
+      ]
+    },
+    {
       "company": "IIT Jodhpur",
       "title": "UG-Student Researcher",
       "years": "May 2022 - Nov 2022",
